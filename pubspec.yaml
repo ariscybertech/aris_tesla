@@ -1,0 +1,6 @@
+name: tesla
+description: "Control and monitor Tesla Products"
+version: 0.5.0-dev
+homepage: "https://github.com/TeslaToolkit/tesla.dart"
+environment:
+  sdk: ">=2.0.0 <3.0.0"
